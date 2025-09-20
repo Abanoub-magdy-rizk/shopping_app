@@ -1,7 +1,17 @@
-<<<<<<< HEAD
-# shoppingapp
+# ShoppingApp
+Simple Shopping App — Flutter (Supports Arabic & English)
 
-A new Flutter project.
+## Project overview
+A small shopping UI demonstrating:
+- Login / Signup
+- Featured products (PageView)
+- Product Grid (2 per row) with Add-to-cart SnackBar
+- Hot Offers section
+- Arabic/English localization using .arb & intl
+- Smooth fade transitions between pages
 
-# shopping_app
-A simple Shopping App built with Flutter featuring login, signup, product catalog, cart interactions, hot offers, and localization (Arabic/English). Includes clean architecture, fade navigation, and screenshots of all features.
+## Features
+- Animated navigation (fade)
+- Localization (.arb files + generated AppLocalizations)
+- Clean code: each screen/widget in separate file
+
