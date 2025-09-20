@@ -1,0 +1,12 @@
+{
+  "ourProducts": "Our Products",
+  "hotOffers": "Hot Offers",
+  "loginSuccessful": "Login Successful ✅",
+  "itemAdded": "{item} added to the cart",
+  "email": "Email",
+  "password": "Password",
+  "login": "Log In",
+  "signup": "Sign Up"
+  "ourProducts": "Our Products",
+    "itemAdded": "{product} added to the cart"
+}

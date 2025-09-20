@@ -1,0 +1,13 @@
+{
+  "ourProducts": "ﺎﻧﺗﺎﺟﺗﻧﻣ",
+  "hotOffers": "ﺔﻧﺧﺎﺳﻟا",
+  "loginSuccessful": "تم تسجيل الدخول ✅",
+  "itemAdded": "تم إضافة {item} إلى العربة",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "login": "تسجيل الدخول",
+  "signup": "إنشاء حساب"
+    "ourProducts": "ﺎﻧﺗﺎﺟﺗﻧﻣ",
+    "hotOffers": "ﺔﻧﺧﺎﺳﻟا",
+    "itemAdded": "ﻊﻣ {product} ﻞﺻﻓ ﻞﺟﺃ"
+}
