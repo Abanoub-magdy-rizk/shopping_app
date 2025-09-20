@@ -17,6 +17,9 @@ A small shopping UI demonstrating:
 
 - ## 📸 Screenshots
 
+### 👋 Welcome Screen  
+![Welcome](welcome.png)
+
 ### 🔑 Login Screen  
 ![Login](login.png)
 
@@ -26,7 +29,6 @@ A small shopping UI demonstrating:
 ### 🏠 Home Screen  
 ![Home](home.png)
 
-### 👋 Welcome Screen  
-![Welcome](welcome.png)
+
 
 
