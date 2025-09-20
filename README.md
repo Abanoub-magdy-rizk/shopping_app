@@ -15,3 +15,18 @@ A small shopping UI demonstrating:
 - Localization (.arb files + generated AppLocalizations)
 - Clean code: each screen/widget in separate file
 
+- ## 📸 Screenshots
+
+### 🔑 Login Screen  
+![Login](login.png)
+
+### 📝 Sign Up Screen  
+![Signup](signup.png)
+
+### 🏠 Home Screen  
+![Home](home.png)
+
+### 👋 Welcome Screen  
+![Welcome](welcome.png)
+
+
